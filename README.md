@@ -44,4 +44,4 @@ The full workflow, templates, and extraction rules are in [skills/SKILL.md](skil
 
 ## Like this?
 
-If Summarize Meetings saved you from transcript purgatory, a star helps us know it's landing.
+If Summarize Meetings saved you from transcript purgatory, a star ⭐️ helps us know it's landing.
