@@ -1,5 +1,7 @@
 # Summarize Meetings
 
+Meeting transcripts pile up. The names, the action items, the project ideas, they're all in there but nobody's going back to read them. This skill turns a backlog of Granola transcripts into a connected Obsidian knowledge graph. We used it to process 600 meetings into something actually useful: [My Now Immaculate Knowledge Graph of Life](https://harper.blog/2026/03/11/2026-immaculate-knowledge-graph/)
+
 Turn a pile of Granola transcripts into an Obsidian knowledge graph. Processes meetings in monthly batches, extracts the stuff that matters, and wires it all together with wiki-links.
 
 ## Installation
@@ -39,3 +41,7 @@ Agents run in parallel (waves of 10-15) and each one handles a single transcript
 ## Documentation
 
 The full workflow, templates, and extraction rules are in [skills/SKILL.md](skills/SKILL.md).
+
+## Like this?
+
+If Summarize Meetings saved you from transcript purgatory, a star helps us know it's landing.
