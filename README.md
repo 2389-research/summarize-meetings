@@ -1,8 +1,9 @@
 # Summarize Meetings
 
-Meeting transcripts pile up. The names, the action items, the project ideas, they're all in there but nobody's going back to read them. This skill turns a backlog of Granola transcripts into a connected Obsidian knowledge graph. We used it to process 600 meetings into something actually useful: [My Now Immaculate Knowledge Graph of Life](https://harper.blog/2026/03/11/2026-immaculate-knowledge-graph/)
+Meeting transcripts pile up. The names, the action items, the project ideas, they're all in there but nobody's going back to read them. This skill turns a backlog of Granola transcripts into a connected Obsidian knowledge graph. Processes meetings in monthly batches, extracts the stuff that matters, and wires it all together with wiki-links. We used it to process 600 meetings into something actually useful: [My Now Immaculate Knowledge Graph of Life](https://harper.blog/2026/03/11/2026-immaculate-knowledge-graph/)
 
-Turn a pile of Granola transcripts into an Obsidian knowledge graph. Processes meetings in monthly batches, extracts the stuff that matters, and wires it all together with wiki-links.
+![network-annotated_hu_dc5f11550bad1d72](https://github.com/user-attachments/assets/76a71ed6-018a-4dc6-8aff-79c2d76b86df)
+
 
 ## Installation
 
