@@ -8,6 +8,7 @@ Meeting transcripts pile up. The names, the action items, the project ideas, the
 ## Installation
 
 ```bash
+/plugin marketplace add 2389-research/claude-plugins
 /plugin install summarize-meetings@2389-research
 ```
 
