@@ -1,5 +1,7 @@
 {
   "name": "summarize-meetings",
   "description": "Process meeting transcripts from Obsidian vault - extract people, action items, concepts, and build knowledge graph",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "keywords": ["obsidian", "meeting-summaries", "knowledge-graph", "granola"],
+  "strict": false
 }
